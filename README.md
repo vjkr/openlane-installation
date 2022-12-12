@@ -17,6 +17,19 @@ https://github.com/The-OpenROAD-Project/OpenLane
 Installation should get completed as below.
 ![image](https://user-images.githubusercontent.com/16399079/206960407-a3153c96-558f-4c70-8bd9-c27627b5b13f.png)
 
- Step 3: Trying to install Openlane using github link
+ Step 3: Trying to install Openlane using github link 
+ installed docker image as mentioned in short version of desktop also 
+ https://docs.docker.com/desktop/install/windows-install/
+  downloaded .exe file and installed as above
+ running below commands to create a container i guess
+ ![image](https://user-images.githubusercontent.com/16399079/206965630-9b1f45e1-126d-4e3a-a463-4e6086c6585f.png)
+got error as below
+![image](https://user-images.githubusercontent.com/16399079/206965878-4c30192e-88d7-44c9-a285-03b58c54abc8.png)
+trying to change to wsl2 by refering mentioned url
+too many errors in installation !!
+
+Switching to direct install
+running sudo python install, git install and make install. fingers crossed.
+Need to study need of docker container!
  
  
