@@ -1,4 +1,5 @@
 # openlane-installation
+# Didnt work :(
 Installation procedure wrt https://github.com/The-OpenROAD-Project/OpenLane 
 
 Setting up Linux system on Windows
@@ -31,5 +32,15 @@ too many errors in installation !!
 Switching to direct install
 running sudo python install, git install and make install. fingers crossed.
 Need to study need of docker container!
+
+# trying another way for openlane-installation
+iNSTALL vmware
+downloaded latest version of xubuntu because vsdiat lab used xfce xubuntu.
+install xubuntu using 'easyinstall' on vmware
+
+
+
+
+
  
  
