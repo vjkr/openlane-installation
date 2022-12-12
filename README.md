@@ -1,5 +1,5 @@
 # openlane-installation
-Installation procedure
+Installation procedure wrt https://github.com/The-OpenROAD-Project/OpenLane 
 
 Setting up Linux system on Windows
 Trying to use WSL - Windows subsystem on Linux instead of Virtual Machine Installation
@@ -13,3 +13,10 @@ Step 2: Install Ubuntu 20.04 as suggested here
 https://github.com/The-OpenROAD-Project/OpenLane
 
 ![image](https://user-images.githubusercontent.com/16399079/206835778-56ce66c0-82f0-4f82-9402-d76ddb125463.png)
+
+Installation should get completed as below.
+![image](https://user-images.githubusercontent.com/16399079/206960407-a3153c96-558f-4c70-8bd9-c27627b5b13f.png)
+
+ Step 3: Trying to install Openlane using github link
+ 
+ 
