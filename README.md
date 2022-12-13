@@ -50,8 +50,11 @@ tried DOWNLOADING .deb file and install docker. encoountered error.
 
 </details>
 
+# Completed post docker installation steps from  https://docs.docker.com/engine/install/linux-postinstall/
+![image](https://user-images.githubusercontent.com/16399079/207250381-48de0af9-e5da-4b2c-b2bd-d6fb8bce3697.png)
 
-
+# Completed venv and python3-pip installation, git and make
+![image](https://user-images.githubusercontent.com/16399079/207251702-fbf34cc2-467b-4d1f-9b2b-e3667c8997dc.png)
 
 
  
