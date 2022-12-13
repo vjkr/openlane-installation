@@ -56,6 +56,8 @@ tried DOWNLOADING .deb file and install docker. encoountered error.
 # Completed venv and python3-pip installation, git and make
 ![image](https://user-images.githubusercontent.com/16399079/207251702-fbf34cc2-467b-4d1f-9b2b-e3667c8997dc.png)
 
+#cloning openlane project folder.
+
 
  
  
