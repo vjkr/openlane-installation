@@ -60,7 +60,8 @@ tried DOWNLOADING .deb file and install docker. encoountered error.
 
 ![image](https://user-images.githubusercontent.com/16399079/207272611-a2fd4fe9-d7cc-48c4-90c3-685606f84d45.png)
 
-
+![image](https://user-images.githubusercontent.com/16399079/207273051-0b5bde0e-ebb8-4f34-9bd4-39aff7258777.png)
+Test passed!! Switching to project work.
 
  
  
