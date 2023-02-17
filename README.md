@@ -73,6 +73,12 @@ Test passed!! Switching to project work.
  ![image](https://user-images.githubusercontent.com/16399079/219558914-87007cd3-10e0-4a1c-b1e1-b8179649ca12.png)
 ![image](https://user-images.githubusercontent.com/16399079/219562565-a984f243-4c05-4415-9db9-a72df7f9daf8.png)
 sAYS cONGRATULATIONS!!
+  
+  sky130 was not installed in pdk directory
+  had to export pdk path and run make command using sudo
+  This generated sky130 files
+  ![image](https://user-images.githubusercontent.com/16399079/219603573-c071404d-f822-449b-9dcb-1035fa5e2fe4.png)
+
 </details>
 
  
