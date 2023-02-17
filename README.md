@@ -50,6 +50,8 @@ tried DOWNLOADING .deb file and install docker. encoountered error.
 
 </details>
 
+<details>
+  <summary>## Worked individual standalone, but support is less. Switching to vsdflow</summary>
 # Completed post docker installation steps from  https://docs.docker.com/engine/install/linux-postinstall/
 ![image](https://user-images.githubusercontent.com/16399079/207250381-48de0af9-e5da-4b2c-b2bd-d6fb8bce3697.png)
 
@@ -57,11 +59,20 @@ tried DOWNLOADING .deb file and install docker. encoountered error.
 ![image](https://user-images.githubusercontent.com/16399079/207251702-fbf34cc2-467b-4d1f-9b2b-e3667c8997dc.png)
 
 #cloning openlane project folder., make , make test !! Successful installation
-
 ![image](https://user-images.githubusercontent.com/16399079/207272611-a2fd4fe9-d7cc-48c4-90c3-685606f84d45.png)
 
 ![image](https://user-images.githubusercontent.com/16399079/207273051-0b5bde0e-ebb8-4f34-9bd4-39aff7258777.png)
 Test passed!! Switching to project work.
+</details>
+
+<details>
+  <summary>## vsdflow installation</summary>
+ After git clone from
+ https://github.com/nickson-jose/openlane_build_script.git
+ 
+ ![image](https://user-images.githubusercontent.com/16399079/219558914-87007cd3-10e0-4a1c-b1e1-b8179649ca12.png)
+
+</details>
 
  
  
