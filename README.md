@@ -79,6 +79,11 @@ sAYS cONGRATULATIONS!!
   This generated sky130 files
   ![image](https://user-images.githubusercontent.com/16399079/219603573-c071404d-f822-449b-9dcb-1035fa5e2fe4.png)
 
+  All steps are completed properly with results
+  ![image](https://user-images.githubusercontent.com/16399079/219604992-609fa34b-d25a-47fe-9787-e2f3d6ce5b2e.png)
+![image](https://user-images.githubusercontent.com/16399079/219605051-8b3bb940-81ef-4e5c-9301-5340aba6505f.png)
+Planning to leaarn individual steps in detail.
+  Good Luck
 </details>
 
  
